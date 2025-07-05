@@ -49,12 +49,12 @@ monte_carlo_dcf/
 └── tests/                     # Unit tests (future)
 ```
 
-Future Enhancements (Phase 4 & 5)
+Future Enhancements (Phase 4 & 5) - 
 
-We can use Copulas for correlated variables
-ML-based parameter estimation
-Live market data feeds
-Multi-asset portfolio optimization
-Interactive web-based interface
+1) We can use Copulas for correlated variables
+2) ML-based parameter estimation
+3) Live market data feeds
+4) Multi-asset portfolio optimization
+5) Interactive web-based interface
 
 Note: This toolkit is for educational and professional analysis purposes. All investment decisions should be made with proper due diligence and professional advice.
