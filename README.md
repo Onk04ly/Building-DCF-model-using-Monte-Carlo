@@ -35,6 +35,7 @@ bashpip install -r requirements.txt
 bashpython monte_carlo_dcf.py
 
 📁 File Structure
+'''
 monte_carlo_dcf/
 ├── README.md                   # This file
 ├── requirements.txt            # Package dependencies
@@ -46,7 +47,7 @@ monte_carlo_dcf/
 │   ├── netflix_dcf_reports/   # Generated Netflix reports
 │   └── company_comparison.png # Comparative analysis
 └── tests/                     # Unit tests (future)
-
+'''
 
 Future Enhancements (Phase 4 & 5)
 
